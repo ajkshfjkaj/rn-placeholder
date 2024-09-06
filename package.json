@@ -1,5 +1,5 @@
 {
-  "name": "rn-placeholder",
+  "name": "@react-native-oh-tpl/rn-placeholder",
   "version": "3.0.3",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -43,5 +43,8 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
+  },
+  "harmony": {
+    "alias": "rn-placeholder"
   }
 }
